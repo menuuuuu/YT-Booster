@@ -1,0 +1,5 @@
+{
+  "name": "Multi Watch Time Browser",
+  "description": "An application to help users increase watch time by playing YouTube videos in multiple simultaneous windows with automatic playback.",
+  "requestFramePermissions": []
+}
